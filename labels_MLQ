@@ -1,0 +1,26 @@
+Labels for variables included in file mlq.csv
+
+MBEA 1-3 : Indicators 1-3 for Active Management-by-Exception
+MBEP 1-3 : Indicators 1-3 for Passive Management-by-Exception
+CR 1-3 : Indicators 1-3 for Contingent Reward
+AC 1-3 : Indicators 1-3 for Attributed Charisma
+IS 1-3 : Indicators 1-3 for Intellectual Stimulation
+IC 1-3 : Indicators 1-3 for Individualized Consideration
+
+Acti : Mean score for Active Leadership
+AC : Mean score for Attributed Charisma
+MBEP : Mean score for Passive Management-by-Exception
+CR : Mean score for Contingent Reward
+IC : Mean score for Individualized Consideration
+IS : Mean score for Intellectual Stimulation
+MBEA : Mean score for Active Management-by-Exception
+Extra : Mean score for Extra-effort
+Satld : Mean score for Satisfaction with the Leader
+Jobsat : Mean score for Job Satisfaction
+Goal : Mean score for Goal Attainment
+Retent : Mean score for Staff Retention
+Quit : Mean score for Intent to Leave the Organization
+Acs : Mean score for Affective Commitment
+Alt.w : Mean score for Work-related Altruism
+Alt.nw : Mean score for Nonwork-related Altruism
+Alt.p : Mean score for Patient-related Altruism
